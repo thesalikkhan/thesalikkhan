@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Salik</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Salik.&animation=fadeIn&type=waving&color=auto&height=100"/>
+</p>
 <h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently working on [AnonAsk - Q&A app that lets people ask each other questions anonymously with features like photo galleries, likes, friends and fully customizable profiles.](https://anonask.xyz)
@@ -35,6 +37,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesalikkhan&show_icons=true&locale=en&layout=compact" alt="thesalikkhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesalikkhan&show_icons=true&locale=en" alt="thesalikkhan" /></p>
-
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesalikkhan&" alt="thesalikkhan" /></p></center>
-<img align="center" src="https://raw.githubusercontent.com/thesalikkhan/thesalikkhan/output/github-contribution-grid-snake.svg" />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thesalikkhan&" alt="thesalikkhan" /> </div>
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=yd33m2zj4heuncmdm0qzt8xko&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/thesalikkhan/thesalikkhan/output/github-contribution-grid-snake.svg" />
+</div>
