@@ -12,3 +12,5 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://blog.salikkhan.com/rss/"
+              env:
+                GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
