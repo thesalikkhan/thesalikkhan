@@ -22,6 +22,9 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough - HackTheBox Starting Point: Vaccine.](https://blog.salikkhan.com/writeup-hackthebox-starting-point-vaccine/)
+- [Running a php app on nginx with php-fpm.](https://blog.salikkhan.com/running-a-php-app-on-nginx/)
+- [Setting up a web server from scratch on Linux.](https://blog.salikkhan.com/setting-up-a-web-server-with-nginx/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
