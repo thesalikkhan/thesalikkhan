@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesalikkhan&show_icons=true&locale=en" alt="thesalikkhan" /></p>
 
 <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesalikkhan&" alt="thesalikkhan" /></p></center>
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thesalikkhan/thesalikkhan/blob/output/github-contribution-grid-snake.svg)
